@@ -1,0 +1,8 @@
+# Assign pull requests to specific individuals or teams
+# Use GitHub usernames or team names preceded by @raf-jp 
+
+# Assign all files under the "src" directory to a specific user
+/src/ @raf-jp
+
+# Assign all JavaScript files to a team
+*.js @raf-jp
